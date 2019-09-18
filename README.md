@@ -31,6 +31,7 @@ This workshop will cover the following examples:
 ### Create an Atlas Admin user 
 ![](img/createuser.jpg)
 
+## Additional notes on each exercise
 ### Auto Deploy
 
 ### Scale up
