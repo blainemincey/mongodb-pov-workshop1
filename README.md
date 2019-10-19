@@ -10,7 +10,7 @@ This workshop will cover the following examples:
 ## Python3 Requirements
 ```pip3 install requests``` 
 
-```pip3 install dotenv ``` 
+```pip3 install python-dotenv ``` 
 
 ```pip3 install pymongo```
  
